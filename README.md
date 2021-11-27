@@ -1,2 +1,2 @@
-# Tisha-Infinite-Runner-Game
-Tisha Infinite Runner Game
+# flappy-bird
+https://tishahandaa.github.io/flappy-bird/
